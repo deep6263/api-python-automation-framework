@@ -1,0 +1,15 @@
+{
+  "valid_post": {
+    "userId": 1,
+    "title": "API Automation Test",
+    "body": "This post was created using the API automation framework."
+  },
+  "update_post": {
+    "userId": 1,
+    "title": "Updated API Automation Test",
+    "body": "This post was updated using the API automation framework."
+  },
+  "patch_post": {
+    "title": "Patched API Automation Test"
+  }
+}
